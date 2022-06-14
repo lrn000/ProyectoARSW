@@ -19,29 +19,31 @@ La plataforma permite que se registren los diseñadores de artesanías y cada ve
 
 - Registrarse en la plataforma:
 
-Descripción:
+*Descripción:*
 
-Como usuario quiero poder registrarme en la plataforma para  tener acceso a las funcionalidades de la plataforma
-Criterios de aceptación:
+Como usuario quiero poder registrarme en la plataforma para  tener acceso a las funcionalidades de la plataforma.
+
+*Criterios de aceptación:*
 
 Si el usuario aún no está registrado, se le debe solicitar al usuario el ingreso su información personal (nombre, carrera, etc)
 El sistema no debe permitir que se registre dos veces el mismo usuario.
 
 - Subir diseños:
 
-Descripción:
+*Descripción:*
+
 Como usuario quiero poder crear una nueva sala para subir una imagen del diseño artesanal.
 
-Criterios de aceptación:
+*Criterios de aceptación:*
 
 La sala debe contar con un nombre que hace referencia al diseño, se debe poder diferenciar cual usuario es su creador y siempre se subir una imagen.
 
 - Comentarios sobre otros diseños
 
-Descripción:
+*Descripción:*
 
 Como usuario quiero poder acceder a los chats de otros diseñadores artesanales para hacer retroalimentaciones sobre sus diseños.
 
-Criterios de aceptación:
+*Criterios de aceptación:*
 
 En el chat se puede ver el nombre del artesano que realizó la retroalimentación.
