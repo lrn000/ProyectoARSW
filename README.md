@@ -36,7 +36,7 @@ Como usuario quiero poder crear una nueva sala para subir una imagen del diseño
 
 *Criterios de aceptación:*
 
-La sala debe contar con un nombre que hace referencia al diseño, se debe poder diferenciar cual usuario es su creador y siempre se subir una imagen.
+La sala debe contar con un nombre que hace referencia al diseño, se debe poder diferenciar cual usuario es su creador y siempre se debe subir una imagen.
 
 - Comentarios sobre otros diseños
 
